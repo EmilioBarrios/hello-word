@@ -1,0 +1,2 @@
+# hello-word
+Self-training
